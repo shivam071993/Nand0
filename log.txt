@@ -1,0 +1,703 @@
+UserID: 6507575922 | Time: 2024-10-16 11:29:41.239072 | Command: /bgmi | Target: 20.235.138.21 | Port: 14992 | Time: 10
+Username: @MEETisLIVE06
+Target: 20.235.138.21
+Port: 14992
+Time: 10
+
+UserID: 6507575922 | Time: 2024-10-16 11:30:18.350081 | Command: /bgmi | Target: 20.235.138.21 | Port: 14992 | Time: 60
+Username: @MEETisLIVE06
+Target: 20.235.138.21
+Port: 14992
+Time: 60
+
+UserID: 6507575922 | Time: 2024-10-16 11:32:30.351207 | Command: /bgmi | Target: 20.235.95.251 | Port: 22178 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.235.95.251
+Port: 22178
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-16 11:36:44.590755 | Command: /bgmi | Target: 20.235.95.251 | Port: 22178 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.235.95.251
+Port: 22178
+Time: 240
+
+UserID: -1002124826156 | Time: 2024-10-16 11:44:11.292491 | Command: /bgmi | Target: 20.235.95.251 | Port: 22178 | Time: 240
+Username: @MEETisLIVE
+Target: 20.235.95.251
+Port: 22178
+Time: 240
+
+UserID: -1002124826156 | Time: 2024-10-16 11:49:13.444963 | Command: /bgmi | Target: 20.204.16.238 | Port: 10602 | Time: 240
+Username: @MEETisLIVE
+Target: 20.204.16.238
+Port: 10602
+Time: 240
+
+UserID: -1002124826156 | Time: 2024-10-16 12:02:04.854533 | Command: /bgmi | Target: 20.235.53.162 | Port: 13253 | Time: 183
+UserID: -1002124826156 | Time: 2024-10-16 12:02:12.173420 | Command: /bgmi | Target: 20.235.53.162 | Port: 13253 | Time: 183
+Username: @MEETisLIVE
+Target: 20.235.53.162
+Port: 13253
+Time: 183
+
+UserID: -1002124826156 | Time: 2024-10-16 12:21:17.229308 | Command: /bgmi | Target: 20.235.94.233 | Port: 16586 | Time: 240
+Username: @MEETisLIVE
+Target: 20.235.94.233
+Port: 16586
+Time: 240
+
+UserID: -1002124826156 | Time: 2024-10-16 12:30:52.716996 | Command: /bgmi | Target: 20.235.143.63 | Port: 11109 | Time: 300
+Username: @MEETisLIVE
+Target: 20.235.143.63
+Port: 11109
+Time: 300
+
+UserID: -1002124826156 | Time: 2024-10-16 12:38:12.721287 | Command: /bgmi | Target: 20.219.164.35 | Port: 21793 | Time: 183
+Username: @MEETisLIVE
+Target: 20.219.164.35
+Port: 21793
+Time: 183
+
+UserID: -1002124826156 | Time: 2024-10-16 12:43:47.448332 | Command: /bgmi | Target: 20.204.190.113 | Port: 10358 | Time: 240
+Username: @MEETisLIVE
+Target: 20.204.190.113
+Port: 10358
+Time: 240
+
+UserID: -1002124826156 | Time: 2024-10-16 12:52:14.937071 | Command: /bgmi | Target: 20.219.164.35 | Port: 21793 | Time: 63
+Username: @MEETisLIVE
+Target: 20.219.164.35
+Port: 21793
+Time: 63
+
+UserID: -1002124826156 | Time: 2024-10-16 12:53:26.264989 | Command: /bgmi | Target: 20.219.164.35 | Port: 21793 | Time: 63
+Username: @MEETisLIVE
+Target: 20.219.164.35
+Port: 21793
+Time: 63
+
+UserID: -1002124826156 | Time: 2024-10-16 12:54:53.593549 | Command: /bgmi | Target: 20.219.164.35 | Port: 21793 | Time: 300
+Username: @MEETisLIVE
+Target: 20.219.164.35
+Port: 21793
+Time: 300
+
+UserID: -1002124826156 | Time: 2024-10-16 13:04:05.628919 | Command: /bgmi | Target: 20.219.164.35 | Port: 21792 | Time: 500
+Username: @MEETisLIVE
+Target: 20.219.164.35
+Port: 21792
+Time: 500
+
+UserID: -1002124826156 | Time: 2024-10-16 15:49:17.452679 | Command: /bgmi | Target: 20.235.32.146 | Port: 19713 | Time: 303
+Username: @MEETisLIVE
+Target: 20.235.32.146
+Port: 19713
+Time: 303
+
+UserID: -1002124826156 | Time: 2024-10-16 16:24:20.790466 | Command: /bgmi | Target: 20.235.51.89 | Port: 29510 | Time: 300
+Username: @MEETisLIVE
+Target: 20.235.51.89
+Port: 29510
+Time: 300
+
+UserID: -1002124826156 | Time: 2024-10-16 16:58:26.726425 | Command: /bgmi | Target: 20.198.79.2 | Port: 26381 | Time: 183
+Username: @MEETisLIVE
+Target: 20.198.79.2
+Port: 26381
+Time: 183
+
+UserID: -1002124826156 | Time: 2024-10-16 17:04:03.788785 | Command: /bgmi | Target: 4.247.17.228 | Port: 10926 | Time: 180
+Username: @MEETisLIVE
+Target: 4.247.17.228
+Port: 10926
+Time: 180
+
+UserID: -1002124826156 | Time: 2024-10-16 17:07:58.425167 | Command: /bgmi | Target: 20.234.24 | Port: 12344 | Time: 200
+Username: @MEETisLIVE
+Target: 20.234.24
+Port: 12344
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 17:16:03.983384 | Command: /bgmi | Target: 52.140.45.120 | Port: 29977 | Time: 240
+Username: @MEETisLIVE
+Target: 52.140.45.120
+Port: 29977
+Time: 240
+
+UserID: -1002124826156 | Time: 2024-10-16 17:19:31.186223 | Command: /bgmi | Target: 4.213.64.186 | Port: 23573 | Time: 200
+Username: @MEETisLIVE
+Target: 4.213.64.186
+Port: 23573
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 17:30:45.366988 | Command: /bgmi | Target: 20.204.189.60 | Port: 10089 | Time: 200
+Username: @MEETisLIVE
+Target: 20.204.189.60
+Port: 10089
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 17:34:18.479948 | Command: /bgmi | Target: 20.204.189.60 | Port: 10089 | Time: 200
+Username: @MEETisLIVE
+Target: 20.204.189.60
+Port: 10089
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 17:55:31.545618 | Command: /bgmi | Target: 20.204.191.227 | Port: 10290 | Time: 200
+Username: @MEETisLIVE
+Target: 20.204.191.227
+Port: 10290
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 18:00:16.029842 | Command: /bgmi | Target: 20.198.73.131 | Port: 20272 | Time: 200
+Username: @MEETisLIVE
+Target: 20.198.73.131
+Port: 20272
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 18:25:54.165132 | Command: /bgmi | Target: 20.235.93.102 | Port: 14896 | Time: 200
+Username: @MEETisLIVE
+Target: 20.235.93.102
+Port: 14896
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 18:33:04.406670 | Command: /bgmi | Target: 20.235.93.102 | Port: 14896 | Time: 60
+Username: @MEETisLIVE
+Target: 20.235.93.102
+Port: 14896
+Time: 60
+
+UserID: -1002124826156 | Time: 2024-10-16 18:52:13.712673 | Command: /bgmi | Target: 20.193.140.77 | Port: 8700 | Time: 150
+Username: @MEETisLIVE
+Target: 20.193.140.77
+Port: 8700
+Time: 150
+
+UserID: -1002124826156 | Time: 2024-10-16 18:53:36.399039 | Command: /bgmi | Target: 20.204.19.255 | Port: 10606 | Time: 60
+Username: @MEETisLIVE
+Target: 20.204.19.255
+Port: 10606
+Time: 60
+
+UserID: -1002124826156 | Time: 2024-10-16 19:01:14.459803 | Command: /bgmi | Target: 20.204.189.186 | Port: 10421 | Time: 200
+UserID: -1002124826156 | Time: 2024-10-16 19:03:24.454246 | Command: /bgmi | Target: 20.204.178.174 | Port: 27524 | Time: 130
+Username: @MEETisLIVE
+Target: 20.204.178.174
+Port: 27524
+Time: 130
+
+UserID: -1002124826156 | Time: 2024-10-16 19:07:33.785055 | Command: /bgmi | Target: 20.235.53.99 | Port: 29142 | Time: 200
+Username: @MEETisLIVE
+Target: 20.235.53.99
+Port: 29142
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 19:07:59.994673 | Command: /bgmi | Target: 20.235.53.99 | Port: 29142 | Time: 200
+Username: @MEETisLIVE
+Target: 20.235.53.99
+Port: 29142
+Time: 200
+
+UserID: -1002124826156 | Time: 2024-10-16 19:12:45.201503 | Command: /bgmi | Target: 20.235.92.252 | Port: 11618 | Time: 180
+Username: @MEETisLIVE
+Target: 20.235.92.252
+Port: 11618
+Time: 180
+
+UserID: -1002124826156 | Time: 2024-10-16 19:15:50.750093 | Command: /bgmi | Target: 20.235.92.252 | Port: 11618 | Time: 180
+Username: @MEETisLIVE
+Target: 20.235.92.252
+Port: 11618
+Time: 180
+
+UserID: -1002124826156 | Time: 2024-10-16 19:19:09.861073 | Command: /bgmi | Target: 20.235.92.252 | Port: 11618 | Time: 80
+Username: @MEETisLIVE
+Target: 20.235.92.252
+Port: 11618
+Time: 80
+
+UserID: -1002124826156 | Time: 2024-10-17 07:54:45.996900 | Command: /bgmi | Target: 52.172.103.24 | Port: 17896 | Time: 120
+Username: @MEETisLIVE
+Target: 52.172.103.24
+Port: 17896
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 07:58:38.084552 | Command: /bgmi | Target: 20.198.6.202 | Port: 2002 | Time: 60
+Username: @MEETisLIVE
+Target: 20.198.6.202
+Port: 2002
+Time: 60
+
+UserID: -1002124826156 | Time: 2024-10-17 08:11:12.520612 | Command: /bgmi | Target: 20.193.139.228 | Port: 8700 | Time: 120
+Username: @MEETisLIVE
+Target: 20.193.139.228
+Port: 8700
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:14:26.839220 | Command: /bgmi | Target: 20.235.51.162 | Port: 10555 | Time: 150
+Username: @MEETisLIVE
+Target: 20.235.51.162
+Port: 10555
+Time: 150
+
+UserID: -1002124826156 | Time: 2024-10-17 08:17:21.098340 | Command: /bgmi | Target: 20.204.178.223 | Port: 17866 | Time: 150
+Username: @MEETisLIVE
+Target: 20.204.178.223
+Port: 17866
+Time: 150
+
+UserID: -1002124826156 | Time: 2024-10-17 08:21:35.425443 | Command: /bgmi | Target: 20.235.10.129 | Port: 11928 | Time: 120
+Username: @MEETisLIVE
+Target: 20.235.10.129
+Port: 11928
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:22:31.776696 | Command: /bgmi | Target: 20.235.10.129 | Port: 11928 | Time: 60
+Username: @MEETisLIVE
+Target: 20.235.10.129
+Port: 11928
+Time: 60
+
+UserID: -1002124826156 | Time: 2024-10-17 08:25:51.109490 | Command: /bgmi | Target: 20.235.143.21 | Port: 10423 | Time: 120
+Username: @MEETisLIVE
+Target: 20.235.143.21
+Port: 10423
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:28:22.863590 | Command: /bgmi | Target: 20.193.141.76 | Port: 8700 | Time: 120
+UserID: -1002124826156 | Time: 2024-10-17 08:30:11.832477 | Command: /bgmi | Target: 20.204.190.221 | Port: 10102 | Time: 60
+Username: @MEETisLIVE
+Target: 20.204.190.221
+Port: 10102
+Time: 60
+
+UserID: -1002124826156 | Time: 2024-10-17 08:31:59.904181 | Command: /bgmi | Target: 20.204.39.173 | Port: 26466 | Time: 120
+Username: @MEETisLIVE
+Target: 20.204.39.173
+Port: 26466
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:41:35.974726 | Command: /bgmi | Target: 20.219.165.125 | Port: 19550 | Time: 120
+UserID: -1002124826156 | Time: 2024-10-17 08:42:43.851914 | Command: /bgmi | Target: 20.219.165.125 | Port: 19550 | Time: 120
+Username: @MEETisLIVE
+Target: 20.219.165.125
+Port: 19550
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:43:15.742690 | Command: /bgmi | Target: 20.219.165.125 | Port: 19550 | Time: 120
+Username: @MEETisLIVE
+Target: 20.219.165.125
+Port: 19550
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:48:18.285774 | Command: /bgmi | Target: 20.219.165.125 | Port: 19550 | Time: 120
+Username: @MEETisLIVE
+Target: 20.219.165.125
+Port: 19550
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 08:58:37.492192 | Command: /bgmi | Target: 20.219.165.125 | Port: 19550 | Time: 10
+Username: @MEETisLIVE
+Target: 20.219.165.125
+Port: 19550
+Time: 10
+
+UserID: -1002124826156 | Time: 2024-10-17 09:01:45.689973 | Command: /bgmi | Target: 20.235.93.241 | Port: 12696 | Time: 70
+Username: @MEETisLIVE
+Target: 20.235.93.241
+Port: 12696
+Time: 70
+
+UserID: -1002124826156 | Time: 2024-10-17 09:02:26.588346 | Command: /bgmi | Target: 20.235.93.241 | Port: 12696 | Time: 80
+Username: @MEETisLIVE
+Target: 20.235.93.241
+Port: 12696
+Time: 80
+
+UserID: -1002124826156 | Time: 2024-10-17 09:03:57.782095 | Command: /bgmi | Target: 20.235.143.164 | Port: 10389 | Time: 110
+Username: @MEETisLIVE
+Target: 20.235.143.164
+Port: 10389
+Time: 110
+
+UserID: -1002124826156 | Time: 2024-10-17 09:07:48.530365 | Command: /bgmi | Target: 20.235.143.164 | Port: 10389 | Time: 120
+UserID: -1002124826156 | Time: 2024-10-17 09:08:45.813276 | Command: /bgmi | Target: 20.235.143.164 | Port: 10389 | Time: 120
+Username: @MEETisLIVE
+Target: 20.235.143.164
+Port: 10389
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 09:16:43.937955 | Command: /bgmi | Target: 20.235.94.237 | Port: 17926 | Time: 190
+UserID: -1002124826156 | Time: 2024-10-17 09:16:58.272384 | Command: /bgmi | Target: 20.235.94.237 | Port: 17926 | Time: 190
+Username: @MEETisLIVE
+Target: 20.235.94.237
+Port: 17926
+Time: 190
+
+UserID: -1002124826156 | Time: 2024-10-17 09:22:12.239026 | Command: /bgmi | Target: 20.204.16.70 | Port: 10784 | Time: 120
+Username: @MEETisLIVE
+Target: 20.204.16.70
+Port: 10784
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 09:22:30.423840 | Command: /bgmi | Target: 20.204.16.70 | Port: 10784 | Time: 120
+Username: @MEETisLIVE
+Target: 20.204.16.70
+Port: 10784
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 09:26:29.949514 | Command: /bgmi | Target: 4.213.68.229 | Port: 26824 | Time: 60
+Username: @MEETisLIVE
+Target: 4.213.68.229
+Port: 26824
+Time: 60
+
+UserID: -1002124826156 | Time: 2024-10-17 09:29:40.212526 | Command: /bgmi | Target: 20.198.108.71 | Port: 12591 | Time: 120
+Username: @MEETisLIVE
+Target: 20.198.108.71
+Port: 12591
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 09:32:45.185337 | Command: /bgmi | Target: 20.235.93.27 | Port: 16035 | Time: 183
+UserID: -1002124826156 | Time: 2024-10-17 09:32:50.930974 | Command: /bgmi | Target: 20.235.93.27 | Port: 16035 | Time: 183
+Username: @MEETisLIVE
+Target: 20.235.93.27
+Port: 16035
+Time: 183
+
+UserID: -1002124826156 | Time: 2024-10-17 09:43:30.794910 | Command: /bgmi | Target: 20.235.151.36 | Port: 27633 | Time: 120
+Username: @MEETisLIVE
+Target: 20.235.151.36
+Port: 27633
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 09:51:00.957967 | Command: /bgmi | Target: 20.235.151.36 | Port: 27633 | Time: 120
+UserID: -1002124826156 | Time: 2024-10-17 09:51:30.232335 | Command: /bgmi | Target: 20.235.151.36 | Port: 27633 | Time: 120
+Username: @MEETisLIVE
+Target: 20.235.151.36
+Port: 27633
+Time: 120
+
+UserID: -1002124826156 | Time: 2024-10-17 10:01:14.896692 | Command: /bgmi | Target: 20.235.15.196 | Port: 16796 | Time: 190
+UserID: -1002124826156 | Time: 2024-10-17 10:01:21.119954 | Command: /bgmi | Target: 20.235.15.196 | Port: 16796 | Time: 190
+Username: @MEETisLIVE
+Target: 20.235.15.196
+Port: 16796
+Time: 190
+
+UserID: -1002124826156 | Time: 2024-10-17 10:01:44.928963 | Command: /bgmi | Target: 20.235.15.196 | Port: 16796 | Time: 190
+Username: @MEETisLIVE
+Target: 20.235.15.196
+Port: 16796
+Time: 190
+
+UserID: -1002124826156 | Time: 2024-10-17 10:13:59.072992 | Command: /bgmi | Target: 20.219.166.28 | Port: 28832 | Time: 240
+Username: @MEETisLIVE
+Target: 20.219.166.28
+Port: 28832
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-17 10:37:45.688343 | Command: /bgmi | Target: 20.235.92.205 | Port: 29877 | Time: 140
+Username: @MEETisLIVE06
+Target: 20.235.92.205
+Port: 29877
+Time: 140
+
+UserID: 6507575922 | Time: 2024-10-17 17:57:27.768330 | Command: /bgmi | Target: 20.235.92.205 | Port: 29877 | Time: 10
+Username: @MEETisLIVE06
+Target: 20.235.92.205
+Port: 29877
+Time: 10
+
+UserID: 6507575922 | Time: 2024-10-17 17:59:06.386163 | Command: /bgmi | Target: 20.235.95.37 | Port: 26294 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.235.95.37
+Port: 26294
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-17 18:02:33.155250 | Command: /bgmi | Target: 20.235.95.37 | Port: 26294 | Time: 190
+UserID: 6507575922 | Time: 2024-10-17 18:04:34.758661 | Command: /bgmi | Target: 20.235.95.37 | Port: 26294 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.235.95.37
+Port: 26294
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-17 18:08:52.284775 | Command: /bgmi | Target: 104.211.240.59 | Port: 18370 | Time: 180
+Username: @MEETisLIVE06
+Target: 104.211.240.59
+Port: 18370
+Time: 180
+
+UserID: 6507575922 | Time: 2024-10-17 18:09:32.500233 | Command: /bgmi | Target: 104.211.240.59 | Port: 18370 | Time: 180
+Username: @MEETisLIVE06
+Target: 104.211.240.59
+Port: 18370
+Time: 180
+
+UserID: 6507575922 | Time: 2024-10-17 18:15:16.201630 | Command: /bgmi | Target: 20.219.167.158 | Port: 16027 | Time: 130
+Username: @MEETisLIVE06
+Target: 20.219.167.158
+Port: 16027
+Time: 130
+
+UserID: 6507575922 | Time: 2024-10-18 07:32:01.681873 | Command: /bgmi | Target: 20.235.17.32 | Port: 19217 | Time: 180
+Username: @MEETisLIVE06
+Target: 20.235.17.32
+Port: 19217
+Time: 180
+
+UserID: 6507575922 | Time: 2024-10-18 07:47:26.924759 | Command: /bgmi | Target: 20.204.181.236 | Port: 20234 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.204.181.236
+Port: 20234
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-19 14:09:52.346403 | Command: /bgmi | Target: 20.219.77.228 | Port: 27677 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.219.77.228
+Port: 27677
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-19 14:10:05.915510 | Command: /bgmi | Target: 20.219.77.228 | Port: 27677 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.219.77.228
+Port: 27677
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-19 14:28:15.228927 | Command: /bgmi | Target: 20.198.109.131 | Port: 25950 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.198.109.131
+Port: 25950
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-19 14:30:32.816441 | Command: /bgmi | Target: 20.198.110.84 | Port: 23196 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.198.110.84
+Port: 23196
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-19 17:47:12.863359 | Command: /bgmi | Target: 20.204.39.150 | Port: 17155 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.204.39.150
+Port: 17155
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-19 17:51:29.443597 | Command: /bgmi | Target: 20.204.39.150 | Port: 17155 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.204.39.150
+Port: 17155
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-19 18:15:34.250686 | Command: /bgmi | Target: 20.204.39.217 | Port: 18782 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.204.39.217
+Port: 18782
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-19 18:19:42.919775 | Command: /bgmi | Target: 20.204.39.217 | Port: 18782 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.204.39.217
+Port: 18782
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-20 08:07:55.951166 | Command: /bgmi | Target: 20.204.39.217 | Port: 18782 | Time: 10
+Username: @MEETisLIVE06
+Target: 20.204.39.217
+Port: 18782
+Time: 10
+
+UserID: 6507575922 | Time: 2024-10-20 08:10:41.273724 | Command: /bgmi | Target: 20.198.79.55 | Port: 11444 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.198.79.55
+Port: 11444
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-20 08:14:50.202723 | Command: /bgmi | Target: 20.198.79.55 | Port: 11444 | Time: 240
+UserID: 6507575922 | Time: 2024-10-20 08:15:08.319048 | Command: /bgmi | Target: 20.198.79.55 | Port: 11444 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.198.79.55
+Port: 11444
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-20 08:29:33.308711 | Command: /bgmi | Target: 20.198.79.55 | Port: 11444 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.198.79.55
+Port: 11444
+Time: 190
+
+UserID: -1002451279490 | Time: 2024-10-21 09:39:15.218098 | Command: /bgmi | Target: 20.198.79.55 | Port: 11444 | Time: 10
+Username: @meetislive0606
+Target: 20.198.79.55
+Port: 11444
+Time: 10
+
+UserID: -1002451279490 | Time: 2024-10-21 09:42:06.310529 | Command: /bgmi | Target: 20.204.190.221 | Port: 10403 | Time: 10
+Username: @meetislive0606
+Target: 20.204.190.221
+Port: 10403
+Time: 10
+
+UserID: -1002451279490 | Time: 2024-10-21 09:42:54.921682 | Command: /bgmi | Target: 20.204.190.221 | Port: 10403 | Time: 10
+UserID: -1002451279490 | Time: 2024-10-21 09:43:03.617527 | Command: /bgmi | Target: 20.204.190.221 | Port: 10403 | Time: 10
+Username: @meetislive0606
+Target: 20.204.190.221
+Port: 10403
+Time: 10
+
+UserID: -1002451279490 | Time: 2024-10-21 09:43:38.516874 | Command: /bgmi | Target: 20.204.190.221 | Port: 10403 | Time: 20
+Username: @meetislive0606
+Target: 20.204.190.221
+Port: 10403
+Time: 20
+
+UserID: -1002451279490 | Time: 2024-10-21 09:50:28.384316 | Command: /bgmi | Target: 20.204.39.212 | Port: 29532 | Time: 300
+Username: @meetislive0606
+Target: 20.204.39.212
+Port: 29532
+Time: 300
+
+UserID: -1002451279490 | Time: 2024-10-21 09:55:41.186488 | Command: /bgmi | Target: 20.204.39.212 | Port: 29532 | Time: 190
+Username: @meetislive0606
+Target: 20.204.39.212
+Port: 29532
+Time: 190
+
+UserID: -1002451279490 | Time: 2024-10-21 10:27:06.151088 | Command: /bgmi | Target: 20.235.143.43 | Port: 13377 | Time: 240
+Username: @meetislive0606
+Target: 20.235.143.43
+Port: 13377
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 10:27:32.783523 | Command: /bgmi | Target: 20.235.143.43 | Port: 13377 | Time: 240
+Username: @meetislive0606
+Target: 20.235.143.43
+Port: 13377
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 10:46:38.376505 | Command: /bgmi | Target: 20.198.105.234 | Port: 24190 | Time: 240
+Username: @meetislive0606
+Target: 20.198.105.234
+Port: 24190
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 10:50:34.358230 | Command: /bgmi | Target: 20.235.20.95 | Port: 22559 | Time: 240
+Username: @meetislive0606
+Target: 20.235.20.95
+Port: 22559
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 10:50:55.895550 | Command: /bgmi | Target: 20.235.20.95 | Port: 22559 | Time: 240
+Username: @meetislive0606
+Target: 20.235.20.95
+Port: 22559
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 10:54:37.908929 | Command: /bgmi | Target: 20.235.20.95 | Port: 22559 | Time: 240
+Username: @meetislive0606
+Target: 20.235.20.95
+Port: 22559
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 10:54:57.087865 | Command: /bgmi | Target: 20.235.20.95 | Port: 22559 | Time: 240
+Username: @meetislive0606
+Target: 20.235.20.95
+Port: 22559
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 11:14:28.784017 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 240
+Username: @meetislive0606
+Target: 20.235.13.245
+Port: 15939
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 11:14:51.866738 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 240
+Username: @meetislive0606
+Target: 20.235.13.245
+Port: 15939
+Time: 240
+
+UserID: -1002451279490 | Time: 2024-10-21 11:18:30.873238 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 10
+Username: @meetislive0606
+Target: 20.235.13.245
+Port: 15939
+Time: 10
+
+UserID: -1002451279490 | Time: 2024-10-21 11:18:41.910793 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 10
+Username: @meetislive0606
+Target: 20.235.13.245
+Port: 15939
+Time: 10
+
+UserID: -1002451279490 | Time: 2024-10-21 11:24:34.406879 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 10
+Username: @meetislive0606
+Target: 20.235.13.245
+Port: 15939
+Time: 10
+
+UserID: -1002451279490 | Time: 2024-10-21 11:25:10.661381 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 20
+Username: @meetislive0606
+Target: 20.235.13.245
+Port: 15939
+Time: 20
+
+UserID: 6507575922 | Time: 2024-10-21 11:28:40.304620 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 20
+Username: @MEETisLIVE06
+Target: 20.235.13.245
+Port: 15939
+Time: 20
+
+UserID: 6507575922 | Time: 2024-10-21 11:41:16.381629 | Command: /bgmi | Target: 20.235.13.245 | Port: 15939 | Time: 20
+Username: @MEETisLIVE06
+Target: 20.235.13.245
+Port: 15939
+Time: 20
+
+UserID: 6507575922 | Time: 2024-10-21 11:47:39.582885 | Command: /bgmi | Target: 20.235.143.20 | Port: 11654 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.235.143.20
+Port: 11654
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-21 11:47:53.130674 | Command: /bgmi | Target: 20.235.143.20 | Port: 11654 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.235.143.20
+Port: 11654
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-21 11:52:57.527905 | Command: /bgmi | Target: 20.235.143.194 | Port: 13952 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.235.143.194
+Port: 13952
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-21 11:54:35.616567 | Command: /bgmi | Target: 20.235.143.194 | Port: 13952 | Time: 190
+Username: @MEETisLIVE06
+Target: 20.235.143.194
+Port: 13952
+Time: 190
+
+UserID: 6507575922 | Time: 2024-10-21 12:01:33.285909 | Command: /bgmi | Target: 20.235.143.194 | Port: 13952 | Time: 60
+Username: @MEETisLIVE06
+Target: 20.235.143.194
+Port: 13952
+Time: 60
+
+UserID: 6507575922 | Time: 2024-10-21 12:02:18.888774 | Command: /bgmi | Target: 20.235.143.194 | Port: 13952 | Time: 60
+Username: @MEETisLIVE06
+Target: 20.235.143.194
+Port: 13952
+Time: 60
+
+UserID: 6507575922 | Time: 2024-10-21 12:09:05.394167 | Command: /bgmi | Target: 20.235.18.229 | Port: 28838 | Time: 240
+Username: @MEETisLIVE06
+Target: 20.235.18.229
+Port: 28838
+Time: 240
+
+UserID: 6507575922 | Time: 2024-10-21 12:09:25.763463 | Command: /bgmi | Target: 20.235.18.229 | Port: 28838 | Time: 240
+UserID: 6507575922 | Time: 2024-10-21 12:11:07.434105 | Command: /bgmi | Target: 20.235.18.229 | Port: 28838 | Time: 30
+Username: @MEETisLIVE06
+Target: 20.235.18.229
+Port: 28838
+Time: 30
+
